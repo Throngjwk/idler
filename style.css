@@ -1,0 +1,11 @@
+h2.canvas  canvas.idle {
+    position: relative;
+    cursor: pointer;
+    background-color: aquamarine;
+    inline-size: inherit;
+    bottom: inherit;
+    border-bottom: inherit;
+    padding: inherit;
+    color: yellow;
+}
+
